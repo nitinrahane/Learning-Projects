@@ -1,0 +1,7 @@
+E:\Learning Projects\Console Apps\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+E:\Learning Projects\Console Apps\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+E:\Learning Projects\Console Apps\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+E:\Learning Projects\Console Apps\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.AssemblyReference.cache
+E:\Learning Projects\Console Apps\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+E:\Learning Projects\Console Apps\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+E:\Learning Projects\Console Apps\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb

@@ -1,0 +1,7 @@
+E:\Learning Projects\IcetricsTest\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\Learning Projects\IcetricsTest\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\Learning Projects\IcetricsTest\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\Learning Projects\IcetricsTest\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+E:\Learning Projects\IcetricsTest\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\Learning Projects\IcetricsTest\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\Learning Projects\IcetricsTest\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

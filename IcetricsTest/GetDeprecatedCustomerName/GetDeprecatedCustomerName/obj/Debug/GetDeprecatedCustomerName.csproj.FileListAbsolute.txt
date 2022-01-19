@@ -1,0 +1,7 @@
+E:\Learning Projects\IcetricsTest\GetDeprecatedCustomerName\GetDeprecatedCustomerName\bin\Debug\GetDeprecatedCustomerName.exe.config
+E:\Learning Projects\IcetricsTest\GetDeprecatedCustomerName\GetDeprecatedCustomerName\bin\Debug\GetDeprecatedCustomerName.exe
+E:\Learning Projects\IcetricsTest\GetDeprecatedCustomerName\GetDeprecatedCustomerName\bin\Debug\GetDeprecatedCustomerName.pdb
+E:\Learning Projects\IcetricsTest\GetDeprecatedCustomerName\GetDeprecatedCustomerName\obj\Debug\GetDeprecatedCustomerName.csproj.AssemblyReference.cache
+E:\Learning Projects\IcetricsTest\GetDeprecatedCustomerName\GetDeprecatedCustomerName\obj\Debug\GetDeprecatedCustomerName.csproj.CoreCompileInputs.cache
+E:\Learning Projects\IcetricsTest\GetDeprecatedCustomerName\GetDeprecatedCustomerName\obj\Debug\GetDeprecatedCustomerName.exe
+E:\Learning Projects\IcetricsTest\GetDeprecatedCustomerName\GetDeprecatedCustomerName\obj\Debug\GetDeprecatedCustomerName.pdb
